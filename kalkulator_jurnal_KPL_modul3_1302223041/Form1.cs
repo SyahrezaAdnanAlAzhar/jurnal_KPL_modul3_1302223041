@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace kalkulator_jurnal_KPL_modul3_1302223041
 {
+    
     public partial class Form1 : Form
     {
         public Form1()
@@ -18,6 +19,11 @@ namespace kalkulator_jurnal_KPL_modul3_1302223041
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
